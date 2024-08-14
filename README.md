@@ -1,16 +1,16 @@
-## [FlowFrame - Tailwind CSS Landing Page](demolink)
+## [FlowFrame - Tailwind CSS Landing Page](https://themegeniusglobal.github.io/FlowFrame/)
 
-<a href="https://https://demo.themesberg.com/FlowFrame/" rel="Tailwind CSS Landing Page">![Tailwind CSS Landing Page Demo - Flowbite](https://themesberg.s3.us-east-2.amazonaws.com/public/github/FlowFrame/thumbnail.png)</a>
+<a href="https://themegeniusglobal.github.io/FlowFrame/" rel="Tailwind CSS Landing Page">![Tailwind CSS Landing Page Demo - Flowbite](#)</a>
 
 FlowFrame is a free and open-source landing page built for SaaS and product websites based on the Tailwind CSS utility-first framework and the Flowbite Component Library featuring a hero section, customer logos, feature sections, testimonials, pricing cards, FAQ section, pre-footer CTA button and a footer.
 
-Built with ❤️ by [Themesberg](https://themesberg.com) based on Tailwind CSS and Flowbite.
+Built with ❤️ by [ThemeGenius](#) based on Tailwind CSS and Flowbite.
 
 ## Live preview
 
 Check out a live demo by clicking here:
 
-🔗 [FlowFrame live preview](demolink) (🌗 switch on dark mode using your computer preferences)
+🔗 [FlowFrame live preview](https://themegeniusglobal.github.io/FlowFrame/) (🌗 switch on dark mode using your computer preferences)
 
 ## Getting started
 
